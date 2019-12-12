@@ -1,4 +1,5 @@
 using *;
+//https://github.com/communityus-llc/AbstractMultiUserAPI/wiki/ServerEffectType
 namespace *
 {
     // Configuration
